@@ -1,185 +1,102 @@
-<!--
-  PROFILE DESIGN: FRONTIER RESEARCH DOSSIER
-  Visual direction: industrial sci-fi (Arknights: Endfield) + elemental exploration (Genshin Impact)
-  Keep the page readable in GitHub's light and dark themes; all imagery is decorative.
--->
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=14&amp;duration=2200&amp;pause=750&amp;color=B5C96B&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=60&amp;lines=%3E+SYSTEM+CONSOLE+%2F+FRONTIER+RESEARCH;%3E+PLATFORMIO+%2F+DSP+%2F+HERMES+AGENTIC+RUNTIME;%3E+MISSION+STATUS%3A+ONLINE" alt="Animated unframed system console: PlatformIO, signal processing, and Hermes agentic AI runtime"/>
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=15&amp;duration=2400&amp;pause=800&amp;color=9EEA69&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=92&amp;lines=%3E+INITIATE+SYSTEM...;%3E+PHYSICS+%2F+SIGNAL+PROCESSING+%2F+EMBEDDED;%3E+AGENTIC+AI+RUNTIME%3A+HERMES;%3E+STATUS%3A+EXPLORING+FRONTIERS" alt="Animated system console: physics, signal processing, embedded systems, and Hermes agentic AI"/>
 </div>
 
 <div align="center">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&text=KADAL-STACKS&fontSize=54&fontColor=F5F7FA&fontAlignY=39&desc=PHYSICS%20%2F%20SIGNAL%20INTELLIGENCE%20%2F%20EMBEDDED%20SYSTEMS&descAlignY=62&descSize=13&color=0:101820,45:173747,75:315F68,100:B5C96B" alt="Kadal-stacks, a frontier research dossier for physics, signal intelligence, and embedded systems" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/STATUS-RESEARCHING-BCD979?style=for-the-badge&labelColor=17242B" alt="Status: researching"/>
-  <img src="https://img.shields.io/badge/BASE-UNIVERSITAS_INDONESIA-D9E8EF?style=for-the-badge&labelColor=17242B" alt="Base: Universitas Indonesia"/>
-  <img src="https://img.shields.io/badge/CLASS-PHYSICS_ENGINEER-73BFD0?style=for-the-badge&labelColor=17242B" alt="Class: physics engineer"/>
-
-  <br/><br/>
-
-  *From raw signals to useful systems. From equations to instruments.*
-
+  <h2>Muhammad Farhan</h2>
+  <p><b>Physics Undergraduate @ Universitas Indonesia</b></p>
+  <p>Scientific Computing · Signal Processing · Embedded Systems · Agentic AI</p>
+  <a href="https://github.com/kadal-stacks"><img src="https://img.shields.io/badge/GitHub-kadal--stacks-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-farhan-kdl"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kadalsendal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B85E43?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
-## `// OPERATOR PROFILE`
+<h3 align="center">About Me</h3>
 
-Hi, I'm **Muhammad Farhan**, a Physics undergraduate at **Universitas Indonesia** interested in turning physical phenomena and messy data into systems that can be measured, modeled, and understood.
+<p align="center">I'm a Physics undergraduate interested in turning real-world signals and physical systems into useful computational tools. My work spans deep learning for time-series data, seismic signal denoising, electronic instrumentation, microcontroller development, and the deployment of agentic AI workflows.</p>
 
-My work moves between computational physics, signal processing, machine learning, and electronic instrumentation. I enjoy the entire pipeline: understanding the physics, designing the experiment or circuit, building the data workflow, and checking whether the result actually makes sense.
+<p align="center">I care about more than getting a model or circuit to run: I want the whole system to be measurable, debuggable, reproducible, and properly documented.</p>
 
-> **Current research coordinates:** time-series intelligence · scientific computing · embedded instrumentation
+<h3 align="center">Tech Stack</h3>
 
+<h4 align="center">Languages & Scientific Computing</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,bash&amp;theme=light" alt="Python, C, C++, MATLAB, and Bash"/>
+</p>
+
+<h4 align="center">Microcontrollers & Embedded</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/PlatformIO-Embedded_Development-F5822A?style=flat-square&amp;logo=platformio&amp;logoColor=white" alt="PlatformIO"/>
+  <img src="https://img.shields.io/badge/STM32-MCU-03234B?style=flat-square" alt="STM32"/>
+  <img src="https://img.shields.io/badge/ESP32-MCU-E7352C?style=flat-square" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/AVR-Microcontrollers-006699?style=flat-square" alt="AVR microcontrollers"/>
+  <img src="https://img.shields.io/badge/KiCad-PCB_Design-314CB6?style=flat-square&amp;logo=kicad&amp;logoColor=white" alt="KiCad"/>
+</p>
+
+<h4 align="center">AI, Machine Learning & Agentic Systems</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow&amp;theme=light" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-Deep_Learning-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Hermes-Agentic_AI_Runtime-34495E?style=flat-square" alt="Hermes agentic AI runtime"/>
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,latex&amp;theme=light" alt="Git, GitHub, VS Code, Linux, Figma, and LaTeX"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MATLAB-Numerical_Analysis-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/GNU_Octave-Numerical_Computing-0790C0?style=flat-square" alt="GNU Octave"/>
+  <img src="https://img.shields.io/badge/Gnuplot-Data_Visualization-536878?style=flat-square" alt="Gnuplot"/>
+</p>
+
+<h3 align="center">Interests</h3>
+<p align="center">⚙️ Embedded Systems &nbsp; · &nbsp; 📈 Signal Processing &nbsp; · &nbsp; 🧠 Machine Learning &nbsp; · &nbsp; 🤖 Agentic AI &nbsp; · &nbsp; 🔬 Computational Physics</p>
+
+<h3 align="center">GitHub Statistics</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,git,github,linux,tensorflow,platformio" alt="Technology icons for Python, MATLAB, C and C++, Git, GitHub, Linux, TensorFlow, and PlatformIO"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kadal-stacks&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=9EEA69&amp;icon_color=73BFD0&amp;text_color=D9E8EF&amp;rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadal-stacks&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=9EEA69&amp;text_color=D9E8EF&amp;langs_count=6" alt="Most-used languages"/>
+  <br/>
+  <img width="72%" src="https://streak-stats.demolab.com?user=kadal-stacks&amp;hide_border=true&amp;background=0D1117&amp;ring=9EEA69&amp;fire=73BFD0&amp;currStreakLabel=9EEA69&amp;sideLabels=D9E8EF&amp;currStreakNum=D9E8EF&amp;sideNums=D9E8EF&amp;dates=8A9AA4" alt="GitHub contribution streak"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kadal-stacks&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6" alt="GitHub profile trophies"/>
 </div>
 
-## `// ACTIVE OPERATIONS`
-
-<table>
-<tr><td width="50%" valign="top"><h3>01 / Physiological Signal Intelligence</h3><p><b>ECG + PPG → BP Estimation</b></p><p>Building a non-invasive blood-pressure estimation pipeline with multi-input deep learning and hybrid CNN–LSTM models, waveform processing, robust loss functions, and hyperparameter tuning.</p><p><sub>STACK: Python · TensorFlow · Keras · CNN–LSTM</sub></p></td><td width="50%" valign="top"><h3>02 / Seismic Signal Processing</h3><p><b>Noisy waveform → Cleaner signal</b></p><p>Exploring wavelet denoising and hybrid block-thresholding for continuous seismic time series, with a focus on reducing noise while preserving useful signal structure.</p><p><sub>STACK: Python · NumPy · Pandas · DSP</sub></p></td></tr>
-<tr><td width="50%" valign="top"><h3>03 / Embedded Instrumentation</h3><p><b>Physical system → Measurable output</b></p><p>Developing circuit and firmware workflows involving analog/digital electronics, op-amps, active filters, microcontrollers, sensors, and data acquisition. PlatformIO is part of my embedded development toolkit.</p><p><sub>STACK: KiCad · C/C++ · PlatformIO · MCU firmware</sub></p></td><td width="50%" valign="top"><h3>04 / Agentic AI Runtime &amp; Deployment</h3><p><b>Hermes → Tool-using agent workflows</b></p><p>Working with Hermes as an agentic runtime: profiles, tool orchestration, multi-agent experiments, Discord integration, and a Mission Control dashboard for inspecting tasks and activity.</p><p><sub>STACK: Hermes · Agent Profiles · Tool Orchestration · Local Runtime</sub></p></td></tr>
-</table>
-
-<details><summary><b>Open systems-integration notes</b></summary><p>My main interest is connecting the whole chain: sensors and circuits, firmware, signal processing, machine learning, and agentic tools. I like systems that are measurable, debuggable, and documented well enough for someone else to reproduce.</p></details>
-
-## `// EXPEDITION ARCHIVE`
-
-These public repositories are the current map of my hands-on work.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/kadal-stacks/Stream-Denoising">Stream Denoising</a></h3>
-      <p>Signal-processing work focused on waveform denoising and computational methods.</p>
-      <sub>FIELD: SIGNAL PROCESSING</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/kadal-stacks/BRIN-Internship-Term-7-2026">BRIN Internship / Term 7</a></h3>
-      <p>Electronics, MCU firmware, and KiCad design work collected for an instrumentation-focused research track.</p>
-      <sub>FIELD: EMBEDDED INSTRUMENTATION</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/kadal-stacks/STEM-Project-Multi-Purpose-Sterilizer-Unit-Prototype">Multi-Purpose Sterilizer Unit</a></h3>
-      <p>A STEM hardware prototype project, documenting the design and development work.</p>
-      <sub>FIELD: HARDWARE PROTOTYPING</sub>
-    </td>
-  </tr>
-</table>
-
-## `// LIVE TELEMETRY`
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kadal-stacks&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101820&amp;title_color=B5C96B&amp;icon_color=73BFD0&amp;text_color=D9E8EF&amp;ring_color=B5C96B&amp;rank_icon=github" alt="GitHub statistics for kadal-stacks"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadal-stacks&amp;layout=compact&amp;hide_border=true&amp;bg_color=101820&amp;title_color=B5C96B&amp;text_color=D9E8EF&amp;langs_count=6" alt="Most-used programming languages on kadal-stacks public repositories"/>
-<br/>
-<img width="76%" src="https://streak-stats.demolab.com?user=kadal-stacks&amp;hide_border=true&amp;background=101820&amp;ring=B5C96B&amp;fire=73BFD0&amp;currStreakLabel=B5C96B&amp;sideLabels=D9E8EF&amp;currStreakNum=D9E8EF&amp;sideNums=D9E8EF&amp;dates=8A9AA4" alt="GitHub contribution streak for kadal-stacks"/>
-<br/>
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=kadal-stacks&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6" alt="GitHub profile trophies"/>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kadal-stacks&amp;label=PROFILE%20SCANS&amp;color=73BFD0&amp;style=flat-square" alt="Profile views counter"/>
-</div>
-
-<details><summary><b>What this telemetry represents</b></summary><p>These panels are generated by external services from publicly visible GitHub activity. They can load at different speeds or temporarily show an error if a provider is unavailable.</p></details>
-
-## `// TOOLKIT LOADOUT`
-
-| Division | Toolkit |
-|---|---|
-| **Programming & scientific computing** | Python, C/C++, MATLAB, GNU Octave, NumPy, Pandas, Gnuplot |
-| **AI & machine learning** | TensorFlow, Keras, Scikit-learn, CNN–LSTM, time-series modeling, hyperparameter tuning |
-| **Signal intelligence** | Waveform analysis, signal denoising, time-series processing, feature engineering |
-| **Embedded & instrumentation** | KiCad, PlatformIO, analog/digital electronics, op-amps, active filters, sensors, microcontrollers |
-| **Agentic AI & deployment** | Hermes runtime, agent profiles, tool orchestration, multi-agent experiments, local workflow integration |
-| **Engineering workflow** | Git, GitHub, technical documentation, LaTeX, data visualization |
-
-<div align="center">
-<img src="https://img.shields.io/badge/PYTHON-Scientific_Computing-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python scientific computing"/>
-<img src="https://img.shields.io/badge/TENSORFLOW-Deep_Learning-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow deep learning"/>
-<img src="https://img.shields.io/badge/PLATFORMIO-Embedded_Development-FF7F00?style=flat-square&amp;logo=platformio&amp;logoColor=white" alt="PlatformIO embedded development"/>
-<img src="https://img.shields.io/badge/HERMES-Agentic_AI-B5C96B?style=flat-square&amp;labelColor=101820" alt="Hermes agentic AI"/>
-<img src="https://img.shields.io/badge/KICAD-Electronics_Design-314CB6?style=flat-square&amp;logo=kicad&amp;logoColor=white" alt="KiCad electronics design"/>
-</div>
-
-## `// CURRENTLY LEARNING`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/01-Agentic_AI_%26_Hermes-B5C96B?style=for-the-badge&amp;labelColor=101820" alt="Agentic AI and Hermes"/>
-  <img src="https://img.shields.io/badge/02-Embedded_System_Design-73BFD0?style=for-the-badge&amp;labelColor=101820" alt="Embedded system design"/>
-  <img src="https://img.shields.io/badge/03-Signal_Processing-D9E8EF?style=for-the-badge&amp;labelColor=101820" alt="Signal processing"/>
-</div>
-
-The current learning loop is about connecting three layers: intelligent agents that can use tools, embedded systems that interact with the physical world, and signal-processing pipelines that turn measurements into interpretable information.
-
-## `// FIELD NOTES`
-
-A few principles I try to carry from physics into engineering:
-
-- **Measure before guessing.** A clean diagram is not proof that a system behaves correctly.
-- **Keep the pipeline traceable.** Data, assumptions, preprocessing, models, and evaluation should be inspectable.
-- **Build for the real world.** A method should be judged by its constraints, failure modes, and usefulness, not only its best metric.
-- **Stay curious across disciplines.** Physics, electronics, computation, and design become more interesting where they overlap.
-
-## `// OPERATOR ROSTER`
-
-Character stickers are clickable: open a character reference page by selecting a chibi. The artwork below is a custom vector-sticker interpretation made for this profile, with a consistent white die-cut edge.
-
-### GENSHIN IMPACT / ELEMENTAL ARCHIVE
-
-<table align="center" width="100%">
-<tr><td align="center" width="25%"><a href="https://genshin-impact.fandom.com/wiki/Nefer"><img src="./assets/chibi/nefer.svg" width="92" alt="Nefer chibi sticker"/></a><br/><sub><b>NEFER</b><br/>Dendro · Secrets</sub></td><td align="center" width="25%"><a href="https://genshin-impact.fandom.com/wiki/Columbina"><img src="./assets/chibi/columbina.svg" width="92" alt="Columbina chibi sticker"/></a><br/><sub><b>COLUMBINA</b><br/>Lunar · Mystery</sub></td><td align="center" width="25%"><a href="https://genshin-impact.fandom.com/wiki/Keqing"><img src="./assets/chibi/keqing.svg" width="92" alt="Keqing chibi sticker"/></a><br/><sub><b>KEQING</b><br/>Electro · Precision</sub></td><td align="center" width="25%"><a href="https://genshin-impact.fandom.com/wiki/Dendro"><img src="./assets/elements/genshin-dendro.svg" width="58" alt="Dendro-inspired emblem"/></a><br/><sub><b>DENDRO</b><br/>Element emblem</sub></td></tr>
-</table>
-
-### ARKNIGHTS: ENDFIELD / FRONTIER ROSTER
-
-<table align="center" width="100%">
-<tr><td align="center" width="20%"><a href="https://perlica.moe/operators/perlica"><img src="./assets/chibi/perlica.svg" width="88" alt="Perlica chibi sticker"/></a><br/><sub><b>PERLICA</b><br/>Electric · Caster</sub></td><td align="center" width="20%"><a href="https://perlica.moe/operators/si"><img src="./assets/chibi/si-xi.svg" width="88" alt="Si, also referred to as Xi, chibi sticker"/></a><br/><sub><b>SI / XI</b><br/>Support</sub></td><td align="center" width="20%"><a href="https://perlica.moe/operators/zhuang-fangyi"><img src="./assets/chibi/zhuang-fangyi.svg" width="88" alt="Zhuang Fangyi chibi sticker"/></a><br/><sub><b>ZHUANG FANGYI</b><br/>Electric · Striker</sub></td><td align="center" width="20%"><a href="https://endfield.gryphline.com/en-us/operators"><img src="./assets/elements/endfield-nature.svg" width="58" alt="Arknights Endfield Nature element emblem"/></a><br/><sub><b>NATURE</b><br/>Element emblem</sub></td><td align="center" width="20%"><a href="https://endfield.gryphline.com/en-us/operators"><img src="./assets/elements/endfield-supporter.svg" width="58" alt="Arknights Endfield Supporter class emblem"/></a><br/><sub><b>SUPPORTER</b><br/>Class emblem</sub></td></tr>
-</table>
-
-<details><summary><b>Sticker and asset notes</b></summary><p>The character stickers are original vector reinterpretations using each character's broad color palette and visual motifs, not official game renders. The Nature and Supporter emblems are vector redraws of the references supplied for this profile. Character and game names remain the property of their respective rights holders.</p></details>
-
-## `// CURRENT WORKBENCH`
-
-<details><summary><b>Open the current focus panel</b></summary>
-<p><b>Agentic systems:</b> Hermes profiles, tool routing, local deployment, Discord integration, and a Mission Control interface.</p>
-<p><b>Embedded systems:</b> PlatformIO projects, microcontroller firmware, electronic instrumentation, and circuit documentation.</p>
-<p><b>Scientific signals:</b> denoising, waveform analysis, predictive modeling, and reproducible evaluation.</p>
-</details>
-
-## `// BEYOND THE LAB`
-
-The interface borrows from the industrial frontier systems of **Arknights: Endfield** and the elemental exploration of **Genshin Impact**. One inspires the operational panels and engineered feel; the other brings the sense of discovery, character, and elemental identity. Both are a reminder that systems can be technically rigorous and still have a strong visual language.
+<h3 align="center">Currently Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Hermes_&_Agentic_Workflows-9EEA69?style=flat-square&amp;labelColor=0D1117" alt="Hermes and agentic workflows"/>
+  <img src="https://img.shields.io/badge/02-Embedded_Development-73BFD0?style=flat-square&amp;labelColor=0D1117" alt="Embedded development"/>
+  <img src="https://img.shields.io/badge/03-Signal_Intelligence-D9E8EF?style=flat-square&amp;labelColor=0D1117" alt="Signal intelligence"/>
+</p>
 
 <details>
-  <summary><b>Optional side quest: games, worlds, and systems</b></summary>
-  <p>Outside technical work, I'm interested in game lore, worldbuilding, and the way complex fictional systems are designed. Those interests also feed my curiosity about architecture, visual communication, and how to make technical work feel inviting without sacrificing clarity.</p>
+  <summary><b>More about my current focus</b></summary>
+  <ul>
+    <li><b>Agentic AI:</b> Hermes profiles, tool orchestration, local deployment, Discord integration, and a Mission Control dashboard for tasks and activity.</li>
+    <li><b>Embedded systems:</b> PlatformIO workflows, MCU firmware, electronic instrumentation, and circuit documentation.</li>
+    <li><b>Signal processing:</b> waveform denoising, time-series analysis, and practical ML pipelines with traceable evaluation.</li>
+  </ul>
 </details>
 
-## `// ESTABLISH CONNECTION`
-
+<h3 align="center">Selected Work</h3>
 <div align="center">
+  <a href="https://github.com/kadal-stacks/Stream-Denoising"><img src="https://img.shields.io/badge/Stream--Denoising-Signal_Processing-31566A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Stream Denoising repository"/></a>
+  <a href="https://github.com/kadal-stacks/BRIN-Internship-Term-7-2026"><img src="https://img.shields.io/badge/BRIN_Internship-Embedded_Instrumentation-31566A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="BRIN Internship repository"/></a>
+  <a href="https://github.com/kadal-stacks/STEM-Project-Multi-Purpose-Sterilizer-Unit-Prototype"><img src="https://img.shields.io/badge/Multi--Purpose_Sterilizer-Hardware_Prototype-31566A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Multi-purpose sterilizer repository"/></a>
+</div>
 
-  <a href="https://github.com/kadal-stacks">
-    <img src="https://img.shields.io/badge/GitHub-kadal--stacks-20242C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-farhan-kdl">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-  </a>
-  <a href="mailto:kadalsendal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-BC6C4C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email contact"/>
-  </a>
-  <a href="https://x.com/SendalKadal">
-    <img src="https://img.shields.io/badge/X-@SendalKadal-20242C?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X profile"/>
-  </a>
+<h3 align="center">Connect With Me</h3>
+<div align="center">
+  <a href="https://github.com/kadal-stacks"><img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-farhan-kdl"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile"/></a>
+  <a href="mailto:kadalsendal@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-B85E43?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email contact"/></a>
+  <a href="https://x.com/SendalKadal"><img src="https://img.shields.io/badge/X-@SendalKadal-24292F?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X profile"/></a>
+</div>
 
-  <br/><br/>
-
-  <sub>FRONTIER LOG / Build patiently. Test rigorously. Keep exploring.</sub>
-
+<p align="center"><i>Building the bridge between physical systems and intelligent software.</i></p>
+<div align="right">
+  <img src="./assets/decor/sticker-cluster.webp" width="180" alt="Decorative chibi stickers and game-inspired emblems" />
 </div>
