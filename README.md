@@ -176,19 +176,19 @@ A small crossover shelf for the characters and visual systems I like. The resear
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://www.genshinmains.com/character/nefer"><img src="https://library.keqingmains.com/img/characters/round-icon/Nefer.png" width="82" alt="Nefer from Genshin Impact"/></a><br/>
+      <a href="https://library.keqingmains.com/characters/dendro/nefer"><img src="https://enka.network/ui/UI_AvatarIcon_Nefer.png" width="82" alt="Nefer from Genshin Impact"/></a><br/>
       <sub><b>NEFER</b><br/>Dendro · Secrets</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://primoguides.gg/genshin-impact/characters/columbina"><img src="https://storage.googleapis.com/primoguides/Columbina_Hyposelenia_Icon_Pre.webp" width="82" alt="Columbina from Genshin Impact"/></a><br/>
+      <a href="https://library.keqingmains.com/characters/hydro/columbina"><img src="https://enka.network/ui/UI_AvatarIcon_Columbina.png" width="82" alt="Columbina from Genshin Impact"/></a><br/>
       <sub><b>COLUMBINA</b><br/>Lunar · Mystery</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://genshinbuild.com/en/keqing"><img src="https://genshinbuild.com/images/Icons/Keqing.png" width="82" alt="Keqing from Genshin Impact"/></a><br/>
+      <a href="https://library.keqingmains.com/characters/electro/keqing"><img src="https://enka.network/ui/UI_AvatarIcon_Keqing.png" width="82" alt="Keqing from Genshin Impact"/></a><br/>
       <sub><b>KEQING</b><br/>Electro · Precision</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-resonance"><img src="https://library.keqingmains.com/img/elements/dendro.png" width="68" alt="Genshin Impact Dendro element emblem"/></a><br/>
+      <a href="https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-resonance"><img src="https://genshin-impact.fandom.com/wiki/Special:FilePath/Element_Dendro.png" width="68" alt="Genshin Impact Dendro element emblem"/></a><br/>
       <sub><b>DENDRO</b><br/>Element emblem</sub>
     </td>
   </tr>
@@ -203,25 +203,25 @@ A small crossover shelf for the characters and visual systems I like. The resear
       <sub><b>PERLICA</b><br/>Electric</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://perlica.moe/operators/si"><img src="https://endfield.wiki.gg/wiki/Special:Redirect/file/Si.png" width="82" alt="Si, also written as Xi, from Arknights Endfield"/></a><br/>
+      <a href="https://perlica.moe/operators/si"><img src="https://endfield.fandom.com/wiki/Special:FilePath/Si.png" width="82" alt="Si, also written as Xi, from Arknights Endfield"/></a><br/>
       <sub><b>SI / XI</b><br/>Cryo · Supporter</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://perlica.moe/operators/zhuang-fangyi"><img src="https://cdn.donatov.blog/v6/assets/main/images/preview_69db7f2042ad13.72936671.webp" width="82" alt="Zhuang Fangyi from Arknights Endfield"/></a><br/>
+      <a href="https://perlica.moe/operators/zhuang-fangyi"><img src="https://endfield.wiki.gg/wiki/Special:Redirect/file/Zhuang_Fangyi.png" width="82" alt="Zhuang Fangyi from Arknights Endfield"/></a><br/>
       <sub><b>ZHUANG FANGYI</b><br/>Electric</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://endfieldplus.com/arknights-endfield-five-elements-overview/"><img src="https://endfield.wiki.gg/wiki/Special:Redirect/file/Nature.png" width="68" alt="Nature element emblem from Arknights Endfield"/></a><br/>
+      <a href="https://endfieldplus.com/arknights-endfield-five-elements-overview/"><img src="https://endfield.fandom.com/wiki/Special:FilePath/Element_Nature.png" width="68" alt="Nature element emblem from Arknights Endfield"/></a><br/>
       <sub><b>NATURE</b><br/>Arts element</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://perlica.moe/guides/combat"><img src="https://endfield.wiki.gg/wiki/Special:Redirect/file/Supporter.png" width="68" alt="Supporter class emblem from Arknights Endfield"/></a><br/>
+      <a href="https://perlica.moe/guides/combat"><img src="https://endfield.fandom.com/wiki/Special:FilePath/Supporter.png" width="68" alt="Supporter class emblem from Arknights Endfield"/></a><br/>
       <sub><b>SUPPORTER</b><br/>Class emblem</sub>
     </td>
   </tr>
 </table>
 
-<sub>Character and game assets remain the property of their respective owners. Images link to game guides or asset reference pages and are used here as personal profile decoration.</sub>
+<sub>Character names and artwork belong to their respective rights holders. Character images are linked from community reference resources for personal profile decoration. Arknights: Endfield asset reference: <a href="https://arknights.win/media/">operator media kit</a>.</sub>
 
 ## `// BEYOND THE LAB`
 
