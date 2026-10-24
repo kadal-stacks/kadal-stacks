@@ -67,6 +67,39 @@ My work moves between computational physics, signal processing, machine learning
   </tr>
 </table>
 
+## `// EXPEDITION ARCHIVE`
+
+These public repositories are the current map of my hands-on work.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/kadal-stacks/Stream-Denoising">Stream Denoising</a></h3>
+      <p>Signal-processing work focused on waveform denoising and computational methods.</p>
+      <sub>FIELD: SIGNAL PROCESSING</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/kadal-stacks/BRIN-Internship-Term-7-2026">BRIN Internship / Term 7</a></h3>
+      <p>Electronics, MCU firmware, and KiCad design work collected for an instrumentation-focused research track.</p>
+      <sub>FIELD: EMBEDDED INSTRUMENTATION</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/kadal-stacks/STEM-Project-Multi-Purpose-Sterilizer-Unit-Prototype">Multi-Purpose Sterilizer Unit</a></h3>
+      <p>A STEM hardware prototype project, documenting the design and development work.</p>
+      <sub>FIELD: HARDWARE PROTOTYPING</sub>
+    </td>
+  </tr>
+</table>
+
+## `// LIVE TELEMETRY`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kadal-stacks&show_icons=true&hide_border=true&bg_color=101820&title_color=B5C96B&icon_color=73BFD0&text_color=D9E8EF&ring_color=B5C96B&rank_icon=github" alt="GitHub statistics for kadal-stacks"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadal-stacks&layout=compact&hide_border=true&bg_color=101820&title_color=B5C96B&text_color=D9E8EF&langs_count=6" alt="Most-used programming languages on kadal-stacks public repositories"/>
+  <br/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadal-stacks&bg_color=101820&color=D9E8EF&line=73BFD0&point=B5C96B&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+</div>
+
 ## `// TOOLKIT LOADOUT`
 
 | Domain | Tools and methods |
