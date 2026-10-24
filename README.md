@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=15&amp;duration=2400&amp;pause=800&amp;color=9EEA69&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=92&amp;lines=%3E+INITIATE+SYSTEM...;%3E+PHYSICS+%2F+SIGNAL+PROCESSING+%2F+EMBEDDED;%3E+AGENTIC+AI+RUNTIME%3A+HERMES;%3E+STATUS%3A+EXPLORING+FRONTIERS" alt="Animated system console: physics, signal processing, embedded systems, and Hermes agentic AI"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=14&amp;duration=2200&amp;pause=850&amp;color=B5C96B&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=60&amp;lines=%3E+SYSTEM+CONSOLE+%2F+FRONTIER+RESEARCH;%3E+PLATFORMIO+%2F+DSP+%2F+HERMES+AGENTIC+RUNTIME;%3E+MISSION+STATUS%3A+ONLINE" alt="Animated unframed system console: PlatformIO, signal processing, and Hermes agentic AI runtime"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=220&amp;text=KADAL-STACKS&amp;fontSize=54&amp;fontColor=F5F7FA&amp;fontAlignY=39&amp;desc=PHYSICS%20%2F%20SIGNAL%20INTELLIGENCE%20%2F%20EMBEDDED%20SYSTEMS&amp;descAlignY=62&amp;descSize=13&amp;color=0:101820,45:173747,75:315F68,100:B5C96B" alt="Kadal-stacks, a frontier research dossier for physics, signal intelligence, and embedded systems"/>
 </div>
 
 <div align="center">
